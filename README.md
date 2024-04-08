@@ -1,3 +1,13 @@
+[SamsungGulf_Service_TC.pdf](https://github.com/github/opensource.guide/files/14900387/SamsungGulf_Service_TC.pdf)
+[إيصال الطلب MC09590487 _ ميلشيمب.pdf](https://github.com/github/opensource.guide/files/14900386/MC09590487._.pdf)
+[AWS_Responsible_Use_of_ML_Whitepaper_1.2.pdf](https://github.com/github/opensource.guide/files/14900385/AWS_Responsible_Use_of_ML_Whitepaper_1.2.pdf)
+[ApprovedEquipments-26_03_2024_12_12_11 (1).xlsx](https://github.com/github/opensource.guide/files/14900384/ApprovedEquipments-26_03_2024_12_12_11.1.xlsx)
+[Aeon Mall.txt](https://github.com/github/opensource.guide/files/14900383/Aeon.Mall.txt)
+[TERMS AND CONDITIONS OF USE AND SALE - ARA - Sportstats.pdf](https://github.com/github/opensource.guide/files/14900382/TERMS.AND.CONDITIONS.OF.USE.AND.SALE.-.ARA.-.Sportstats.pdf)
+[KDnuggets-The-Complete-Collection-of-Data-Science-Cheatsheets.pdf](https://github.com/github/opensource.guide/files/14900380/KDnuggets-The-Complete-Collection-of-Data-Science-Cheatsheets.pdf)
+[AxiomMark-Profile.pdf](https://github.com/github/opensource.guide/files/14900379/AxiomMark-Profile.pdf)
+[Service_Order_Form_BMP (1).pdf](https://github.com/github/opensource.guide/files/14900378/Service_Order_Form_BMP.1.pdf)
+[Service_Order_Form_BMP (1).pdf](https://github.com/github/opensource.guide/files/14900370/Service_Order_Form_BMP.1.pdf)
 # Open Source Guides
 [![Build Status](https://github.com/github/opensource.guide/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/github/opensource.guide/actions)
 
